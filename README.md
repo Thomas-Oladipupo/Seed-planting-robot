@@ -5,7 +5,7 @@ The Automatic Seed Planter Robot is a compact, battery-powered farming assistant
 
 Key Features
 
-Configurable planting gap via Bluetooth app
+Configurable planting gap via WiFi enabled app
 
 Optical encoders for accurate distance measurement
 
